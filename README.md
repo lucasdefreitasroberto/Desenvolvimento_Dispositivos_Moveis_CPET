@@ -1,2 +1,2 @@
 # Desenvolvimento_Dispositivos_Móveis_CPET
- Atividade Prática I Desenvolvimento para Dispositivos Móveis I
+ Atividade Prática I Desenvolvimento para Dispositivos Móveis I CPET
